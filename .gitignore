@@ -1,3 +1,6 @@
 __pycache__/
 calculus_venv/
 calculus_env_v2/
+*.pyc
+.idea/
+.vscode/
